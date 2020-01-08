@@ -10,6 +10,6 @@ Tennis	Court etc.
 ## How to Run ?
 * Download booking.py from repository
 * change directory to the location where booking.py is present
-* Run it using command :
-              python booking.py
+* Run it using command 
+                     python booking.py
 
