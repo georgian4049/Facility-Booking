@@ -11,5 +11,5 @@ Tennis	Court etc.
 * Download booking.py from repository
 * change directory to the location where booking.py is present
 * Run it using command :
-       python booking.py
+              python booking.py
 
